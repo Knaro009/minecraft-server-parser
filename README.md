@@ -13,3 +13,4 @@ json
 mcstatus 
 
 i dont know how to really open sockets and stuff so i used mcstatus
+kinda glitchy idk how fix 
